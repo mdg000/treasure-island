@@ -1,3 +1,6 @@
+# 100 Days of Code Practice Project
+# Choose your own adventure game
+
 print('''
 *******************************************************************************
           |                   |                  |                     |
